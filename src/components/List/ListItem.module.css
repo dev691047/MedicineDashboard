@@ -1,0 +1,27 @@
+.med {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  padding-bottom: 1rem;
+}
+li {
+  box-shadow: 5px 5px 10px rgb(201, 196, 196);
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.med h3 {
+  margin: 0 0 0.25rem 0;
+}
+
+.description {
+  font-style: italic;
+  margin: 0 10px;
+}
+
+.price {
+  margin-top: 0.25rem;
+  font-weight: bold;
+  color: #ad5502;
+  font-size: 1.25rem;
+}
